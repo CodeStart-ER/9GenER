@@ -35,11 +35,13 @@ h2
  
 .bg-article-pink{
     background-color:#F5A9E1;
+    height:140px;
 }
 
 .bg-aside-pink{
     background-color:#F7819F;
     border:solid 0.1rem black;
+    min-height: 200px;
 }
 
 .bg-footer-purple{
