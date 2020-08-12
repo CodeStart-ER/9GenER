@@ -1,0 +1,50 @@
+*
+{
+    box-sizing: border-box;
+    
+}
+
+h2
+    {
+        font-family:'Times New Roman', Times, serif;
+        font-size:20px;
+        font-weight: 300;
+    }
+
+.main{
+    border:solid 0.1rem red;
+    padding:1.5rem 2rem;
+    margin-top: 3rem;
+  
+} 
+
+.bg-nav-magenta{
+    
+    background-color:#DF01D7;
+}
+.bg-section-blue{
+
+    background-color:#6699FF;
+    border:solid 0.1rem black;
+}
+
+.bg-header-blue{
+    background-color:#66FFFF;
+    border:solid 0.2rem #BDC8F7;
+}
+ 
+.bg-article-pink{
+    background-color:#F5A9E1;
+}
+
+.bg-aside-pink{
+    background-color:#F7819F;
+    border:solid 0.1rem black;
+}
+
+.bg-footer-purple{
+    background-color: #CECEF6;
+    border:solid 0.2rem #3434FF
+}
+
+
